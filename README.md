@@ -1,7 +1,7 @@
 # jasano.github.io
-My initial repository
 
-I kind of into data. 
+
+Data science Page 
 
 ## Description
 
